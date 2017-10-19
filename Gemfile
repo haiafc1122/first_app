@@ -6,6 +6,8 @@ gem 'rails', '4.0.0'
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3'
 
+#use devise for user signin, signup 
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
